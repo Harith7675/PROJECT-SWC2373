@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ffffff;
+    margin: 20px 0;
+}
+
+#meet {
+    margin: 20px auto;
+    width: 80%;
+    height: 500px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+
+header img {
+    max-width: 100px;
+    height: auto;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+body, html {
+    height: 100%;
+}
